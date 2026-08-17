@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&amp;display=swap");
+:root {
+  --r: 30px; /* radius */
+  --s: 50px; /* size of the inner curve*/
+  --_m:/calc(2*var(--r)) calc(2*var(--r)) radial-gradient(#000 70%,#0000 72%) no-repeat;
+  --theme-color1: #FF7E1D;
+  --theme-color2: #325338;
+  --theme-color3: #35563A;
+  --theme-color4: #4D84FF;
+  --headings-color: #564542;
+  --bg-color: #F9F0E0;
+  --theme-color1-rgb: 141, 86, 250;
+  --theme-color2-rgb: 4, 11, 29;
+  --theme-color3-rgb: 2, 223, 130;
+  --theme-color4-rgb: 77, 132, 255;
+  --text-color-theme-color1: #D9D9D9;
+  --body-bg: #fff;
+  --h6-font-weight: 600;
+  --heading-font-family: "Merriweather", serif;
+}
